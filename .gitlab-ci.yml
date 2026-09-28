@@ -1,0 +1,16 @@
+stages:
+  - package
+
+package-skyworld:
+  stage: package
+  image: alpine:latest
+  before_script:
+    - apk add --no-cache zip
+  script:
+    - cd src
+    - zip -r ../skyworld.zip skyworld
+  artifacts:
+    name: "skyworld"
+    paths:
+      - skyworld.zip
+    expire_in: 1 week
