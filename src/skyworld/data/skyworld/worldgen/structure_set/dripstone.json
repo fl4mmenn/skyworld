@@ -1,0 +1,16 @@
+{
+    "structures": [
+        {
+            "structure": "skyworld:dripstone",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:concentric_rings",
+        "distance": 0,
+        "spread": 0,
+        "count": 1,
+        "preferred_biomes": "#skyworld:overworld",
+        "salt": 12173
+    }
+}

@@ -18,15 +18,6 @@
                 "processors": [],
                 "location": "skyworld:island/original"
             }
-        },
-        {
-            "weight": 1,
-            "element": {
-                "element_type": "single_pool_element",
-                "projection": "rigid",
-                "processors": [],
-                "location": "skyworld:island/pyramid"
-            }
         }
     ]
 }
