@@ -1,0 +1,61 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:acacia_checked"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:dark_oak_checked"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:pine_checked"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:birch_checked"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:fancy_oak_checked"
+            }
+        },
+                {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:spruce_checked"
+            }
+        },
+                {
+            "weight": 1,
+            "element": {
+                "element_type": "feature_pool_element",
+                "projection": "rigid",
+                "feature": "minecraft:cherry_checked"
+            }
+        }
+    ]
+}

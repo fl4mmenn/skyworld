@@ -1,0 +1,12 @@
+{
+    "structures": [
+        {
+            "structure": "skyworld:fortress",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:dimension_origin",
+        "salt": 0
+    }
+}
