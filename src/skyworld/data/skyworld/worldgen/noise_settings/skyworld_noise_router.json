@@ -12,15 +12,7 @@
     "noise_router": {
         "temperature": "minecraft:overworld/temperature",
         "vegetation": "minecraft:overworld/vegetation",
-        "continents": {
-            "type": "minecraft:gradient",
-            "axis": "z",
-            "tiling": "clamp_to_edge",
-            "from_coordinate": 0,
-            "to_coordinate": 2,
-            "from_value": -1.0,
-            "to_value": 1.0
-        },
+        "continents": "minecraft:overworld/continents",
         "erosion": "minecraft:overworld/erosion",
         "depth": "minecraft:overworld/depth",
         "ridges": "minecraft:overworld/ridges",
